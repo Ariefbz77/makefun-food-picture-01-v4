@@ -1,1 +1,3 @@
-out
+# generated output and logs stay out of the repo
+out/
+*.log
